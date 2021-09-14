@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Segment Component renders correctly enzyme 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "paddingBottom": 35,
+      "paddingTop": 35,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    adjustsFontSizeToFit={true}
+    ellipsizeMode="tail"
+    numberOfLines={2}
+  >
+    test
+     
+  </Text>
+</View>
+`;
